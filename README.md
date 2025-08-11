@@ -48,7 +48,3 @@ Le système détecte l’arrivée d’un train, déclenche les signaux visuels (
 
 ## Auteurs
 **Rayan** – Développement, conception et implémentation.
-
-
-Veux-tu que je te fasse **la version avec mise en forme visuelle améliorée** pour GitHub ?
-
